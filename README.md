@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @biplavpaudel123
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning android app develpment in java
+- 🌱 I’m currently learning web development
 - 📫 How to reach me ...
 
 <!---
