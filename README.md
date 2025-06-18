@@ -19,17 +19,11 @@
 ## 🚀 About Me
 
 I’m a passionate backend developer crafting robust and efficient server-side applications using **Node.js**, **Express**, and modern JavaScript.  
-<!--- 
-I enjoy designing clean APIs, optimizing databases, and implementing scalable solutions that power modern web applications.  
----!>
-In my projects, I focus on:
 
+In my projects, I focus on:
 - Writing clean, maintainable, and modular code
 - Implementing RESTful APIs and real-time features
 - Ensuring security best practices (authentication, authorization, input validation)
-<!---
-- Leveraging containerization with Docker for reliable deployments
----!>
 - Writing tests for high-quality and bug-free code
 
 ---
