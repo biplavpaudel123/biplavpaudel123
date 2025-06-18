@@ -29,7 +29,7 @@ In my projects, I focus on:
 
 ## 💼 Featured Projects
 
-### [Nasa Mission Control Pannel](https://github.com/biplavpaudel123/nasa-mission-control-panel)
+### [Nasa Mission Control Panel](https://github.com/biplavpaudel123/nasa-mission-control-panel)
 A backend deigned in MVC pattern for API to schedule, launch, abort missions for the Kelper discovered planets with mission date, target planet rocket name and launch Date.
 
 ---
