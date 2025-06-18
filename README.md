@@ -36,8 +36,6 @@ A backend deigned in MVC pattern for API to schedule, launch, abort missions for
 ---
 
 ## 📊 GitHub Stats
-
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=biplavpaudel123&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biplavpaudel123&layout=compact&theme=github_dark&hide_border=true)
 
 ---
